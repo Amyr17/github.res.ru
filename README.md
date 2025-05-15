@@ -1,1 +1,1 @@
-# github.res.ru
+# res.github.io
